@@ -56,7 +56,7 @@ class bot extends player{
      * veřejná funkce setPos s datovým typem float, nic nevrací
      */
     public function setPos(){
-        $setPos = $float;
+        setPos = $float;
         return $void;
     }
     /**
